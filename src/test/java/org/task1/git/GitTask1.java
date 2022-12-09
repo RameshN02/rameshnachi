@@ -18,4 +18,8 @@ public class GitTask1
 		System.out.println("manda bathram da rameshu");
 
 	}
+	private void message3() {
+		System.out.println("hello");
+
+	}
 }
