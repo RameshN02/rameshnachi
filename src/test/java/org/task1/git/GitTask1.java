@@ -11,4 +11,11 @@ public class GitTask1
 	private void telugu() {
 		System.out.println("telugu speaker");
 	}
+	private void message1() {
+		System.out.println("Aahaan");
+	}
+	private void message2() {
+		System.out.println("manda bathram da rameshu");
+
+	}
 }
