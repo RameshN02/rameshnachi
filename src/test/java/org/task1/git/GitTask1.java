@@ -20,6 +20,11 @@ public class GitTask1
 	}
 	private void message3() {
 		System.out.println("hello");
+private void messageA() {
+	System.out.println("losse akka ");
+}
+ private void messageB() {
+	System.out.println("yanga akka oru mental");
 
 	}
 }
