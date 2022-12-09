@@ -18,4 +18,11 @@ public class GitTask1
 		System.out.println("manda bathram da rameshu");
 
 	}
+     private void messageA() {
+		System.out.println("losse akka ");
+	}
+     private void messageB() {
+		System.out.println("yanga akka oru mental");
+
+	}
 }
